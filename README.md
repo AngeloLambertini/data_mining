@@ -8,3 +8,4 @@ Problems from "Data Mining for Business Analytics - Concepts, Techniques and App
 #### Assignment 3 - EDA and Dimensionality Reduction (Principal Component Analysis)
 #### Assignment 4 - Multiple Linear Regression
 #### Assignment 5&6 - Logistic Regression and Classification Tree
+#### Corss-Selling Case Study - Market Basket Analysis Association Rules
